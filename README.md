@@ -1,1 +1,3 @@
+print("hi")
+
 # first-repo
